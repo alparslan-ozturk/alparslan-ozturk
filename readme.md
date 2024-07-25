@@ -1,1 +1,0 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alparslan-ozturk&theme=onedark)](https://github.com/alparslan-ozturk/github-profile-trophy)
